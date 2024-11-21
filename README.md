@@ -1,5 +1,5 @@
 # MH2p CarPlay Windowed Full Screen
-Changes CarPlay to windowed fullscreen (still shows side bar).
+Changes CarPlay to windowed fullscreen (still shows sidebar).
 ## License
  - This file is part of MH2p_CarPlay_WindowedFullscreen, licensed under CC BY-NC-SA 4.0.
  - https://creativecommons.org/licenses/by-nc-sa/4.0/
